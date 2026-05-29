@@ -1,0 +1,8 @@
+# Router Interfaces
+router_interfaces:
+  Router-1:
+    interface: FastEthernet0/1
+    ip_address: 192.168.1.10/24
+  Router-2:
+    interface: FastEthernet0/1
+    ip_address: 192.168.2.11/24
