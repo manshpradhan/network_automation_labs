@@ -1,2 +1,2 @@
-# LAB5-6
+# LAB
 Network Automation Lab
